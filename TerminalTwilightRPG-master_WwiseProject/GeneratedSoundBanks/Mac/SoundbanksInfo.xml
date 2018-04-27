@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>/Users/alvarolopez/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/GitHub/TerminalTwilightRPG-master/TerminalTwilightRPG-master_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/alvarolopez/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/GitHub/TerminalTwilightRPG-master/TerminalTwilightRPG-master_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/alvarolopez/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/GitHub/TerminalTwilightRPG-master/TerminalTwilightRPG-master_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/alvarolopez/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/y:/Documents/GitHub/TerminalTwilightRPG-master/TerminalTwilightRPG-master_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2385628198" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Footsteps</ObjectPath>
+			<ShortName>Footsteps</ShortName>
+			<Path>Footsteps.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
